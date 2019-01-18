@@ -1,0 +1,29 @@
+.wrapper {
+    box-sizing: border-box;
+    max-width: 960px;
+    background: #f4f4f4;
+    color: #994636;
+    font-family: 'Playfair Display', serif;
+    margin: 5px 50px 5px 50pxd
+}
+
+header {
+    margin: 5px 20px
+}
+.photo {
+    margin: 0 5px;
+
+   
+}
+.text-intro {
+    width: 400px;
+    font-size: 1.5em;
+    margin: 0 auto
+     
+}
+.intro {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: center
+}
