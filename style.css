@@ -4,14 +4,14 @@
     background: #f4f4f4;
     color: #994636;
     font-family: 'Playfair Display', serif;
-    margin: 5px 50px 5px 50pxd
+    margin: 0 auto
 }
 
 header {
     margin: 5px 20px
 }
 .photo {
-    margin: 0 5px;
+    margin: 0 5px 0 20px;
 
    
 }
@@ -25,12 +25,13 @@ header {
     display: flex;
     justify-content: flex-start;
     width: 100%;
-    align-items: center
+    align-items: center;
 }
 
 .container {
     display: flex;
     justify-content: space-evenly;
+    margin: 100px 5px ;
 }
 
 .goals .skills {
@@ -39,6 +40,6 @@ header {
 }
 .bottom {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 20px;
 }
